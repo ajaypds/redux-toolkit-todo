@@ -1,3 +1,2 @@
-# React + Vite
 
-Redux Toolkit Todo
+## Redux Toolkit Simple Todo Application
