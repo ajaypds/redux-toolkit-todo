@@ -1,4 +1,4 @@
 
 ## Redux Toolkit Simple Todo Application
 
-![preview](public/preview.png)
+![preview](public/preview.jpg)
